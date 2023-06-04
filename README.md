@@ -9,33 +9,7 @@ Through this repository, I intend to keep a track of all the papers I read on sl
 ├── assets
 │   └── ros_perception_tools
 │       └── slam_gmapping
-│           ├── gmapping
-│           │   ├── CHANGELOG.rst
-│           │   ├── CMakeLists.txt
-│           │   ├── launch
-│           │   │   └── slam_gmapping_pr2.launch
-│           │   ├── nodelet_plugins.xml
-│           │   ├── package.xml
-│           │   ├── src
-│           │   │   ├── main.cpp
-│           │   │   ├── nodelet.cpp
-│           │   │   ├── replay.cpp
-│           │   │   ├── slam_gmapping.cpp
-│           │   │   └── slam_gmapping.h
-│           │   └── test
-│           │       ├── basic_localization_laser_different_beamcount.test
-│           │       ├── basic_localization_stage.launch
-│           │       ├── basic_localization_stage_replay2.launch
-│           │       ├── basic_localization_stage_replay.launch
-│           │       ├── basic_localization_symmetry.launch
-│           │       ├── basic_localization_upside_down.launch
-│           │       ├── rtest.cpp
-│           │       └── test_map.py
-│           ├── README.md
-│           └── slam_gmapping
-│               ├── CHANGELOG.rst
-│               ├── CMakeLists.txt
-│               └── package.xml
+│          
 ├── data
 └── README.md
 ~~~
