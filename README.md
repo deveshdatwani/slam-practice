@@ -1,4 +1,4 @@
-### BRB! SLAM in practice 
+### We're Slam-ing!  
 
 Slam is exciting. Slam is fun. This repository is my personal practice board to implement classical slam algorithms.
 
